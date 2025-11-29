@@ -1,1 +1,1 @@
-"""Model interfaces and simple implementations for UniRLHF."""
+"""Model interfaces and simple implementations for RLHF-Lab."""

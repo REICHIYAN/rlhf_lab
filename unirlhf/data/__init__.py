@@ -1,1 +1,1 @@
-"""Data schemas and helpers for UniRLHF."""
+"""Data schemas and helpers for RLHF-Lab."""

@@ -1,1 +1,1 @@
-"""Evaluation modules for UniRLHF."""
+"""Evaluation modules for RLHF-Lab."""

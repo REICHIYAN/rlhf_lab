@@ -225,7 +225,7 @@ def main():
         results[method] = res
 
     # Print summary
-    print("\n=== UniRLHF — Full Methods Evaluation (Tiny GPT-2) ===\n")
+    print("\n=== RLHF-Lab — Full Methods Evaluation (Tiny GPT-2) ===\n")
     for name, r in results.items():
         print(f"Method: {name}")
         if r.preference:

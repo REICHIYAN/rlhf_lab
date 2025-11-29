@@ -80,7 +80,7 @@ def main():
         )
         results.append(res)
 
-    print("\n=== UniRLHF Dummy Evaluation Results ===\n")
+    print("\n=== RLHF-Lab Dummy Evaluation Results ===\n")
     for r in results:
         print(f"Method: {r.method}")
         if r.preference:
