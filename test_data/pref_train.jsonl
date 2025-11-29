@@ -1,0 +1,2 @@
+{"prompt": "Explain RLHF.", "chosen": "RLHF uses human feedback to align the model with human preferences.", "rejected": "RLHF is just about training bigger models without feedback."}
+{"prompt": "Describe PPO.", "chosen": "PPO is a policy-gradient method that uses a clipped objective.", "rejected": "PPO is a tree search algorithm unrelated to policy gradients."}

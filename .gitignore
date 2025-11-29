@@ -1,0 +1,91 @@
+# -------------------------------------------
+# RLHF-Lab (Python + RLHF experiments)
+# Google-style .gitignore for research repos
+# -------------------------------------------
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.pickle
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter notebooks cache
+.ipynb_checkpoints/
+
+# Logs & Outputs
+logs/
+output/
+outputs/
+results/
+runs/
+wandb/
+tensorboard/
+tb_logs/
+
+# Model checkpoints & weights
+checkpoints/
+model_ckpt/
+*.ckpt
+*.pt
+*.bin
+*.safetensors
+
+# HuggingFace cache
+huggingface/
+hf_cache/
+.cache/
+.cache_dir/
+transformers_cache/
+datasets/
+
+# RLHF / Alignment datasets
+data/raw/
+data/tmp/
+data/intermediate/
+
+# Evaluation artifacts
+eval_logs/
+eval_outputs/
+eval_reports/
+
+# LLM responses / temp JSONL
+*.jsonl.tmp
+*.jsonl.backup
+
+# Environment variables / secrets
+.env
+.env.*
+*.key
+*.secret
+apikey.txt
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.tmp
+*.log
+
+# PyTest
+.cache/
+.tox/
+.coverage
+coverage.xml
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.whl

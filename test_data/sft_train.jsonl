@@ -1,0 +1,2 @@
+{"prompt": "Explain RLHF in simple terms.", "response": "RLHF is a way to train models using human feedback to shape their behavior."}
+{"prompt": "Describe what PPO does in reinforcement learning.", "response": "PPO updates the policy with clipped changes to stay stable while improving rewards."}

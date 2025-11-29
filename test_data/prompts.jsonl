@@ -1,0 +1,3 @@
+{"id": 1, "prompt": "Explain RLHF in one sentence.", "reference": "RLHF trains language models to align with human preferences using feedback."}
+{"id": 2, "prompt": "What is Direct Preference Optimization (DPO)?", "reference": "DPO directly optimizes preferences without an explicit reward model."}
+{"id": 3, "prompt": "Give a short definition of PPO in RL.", "reference": "PPO is a policy-gradient method with a clipped objective for stable updates."}
